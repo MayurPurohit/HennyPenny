@@ -1,0 +1,21 @@
+{"frames": {
+
+"splashscreen.png":
+{
+	"frame": {"x":1,"y":1,"w":1920,"h":1335},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1920,"h":1335},
+	"sourceSize": {"w":1920,"h":1335}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "UI-other-2.png",
+	"format": "RGBA8888",
+	"size": {"w":1922,"h":1337},
+	"scale": "1",
+	"related_multi_packs": [ "UI-other-1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:139b7bd8814b25b39ea3e692a520639e:e9f20c7842ebdfe02ea05d4852ca6f5f:3bf2bb3bf1e12cd20df7ed597a192417$"
+}
+}

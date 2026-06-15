@@ -1,0 +1,333 @@
+{"frames": {
+
+"gallina-effort-01_11.png":
+{
+	"frame": {"x":1734,"y":505,"w":333,"h":291},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":118,"y":73,"w":333,"h":291},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-effort-01_34.png":
+{
+	"frame": {"x":1042,"y":505,"w":344,"h":271},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":93,"w":344,"h":271},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-effort-01_35.png":
+{
+	"frame": {"x":1388,"y":505,"w":344,"h":272},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":93,"w":344,"h":272},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-effort-03_29.png":
+{
+	"frame": {"x":1711,"y":840,"w":331,"h":301},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":63,"w":331,"h":301},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-effort-04_39.png":
+{
+	"frame": {"x":1711,"y":1143,"w":335,"h":282},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":118,"y":82,"w":335,"h":282},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-effort-04_51.png":
+{
+	"frame": {"x":1711,"y":1427,"w":335,"h":283},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":107,"y":81,"w":335,"h":283},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-end-02_18.png":
+{
+	"frame": {"x":1711,"y":1712,"w":335,"h":296},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":118,"y":68,"w":335,"h":296},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-end-02_27.png":
+{
+	"frame": {"x":1,"y":501,"w":345,"h":268},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":96,"w":345,"h":268},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-end-02_50.png":
+{
+	"frame": {"x":1493,"y":1,"w":370,"h":250},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":118,"w":370,"h":250},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-end-02_51.png":
+{
+	"frame": {"x":374,"y":252,"w":370,"h":249},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":118,"w":370,"h":249},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-end-02_52.png":
+{
+	"frame": {"x":746,"y":252,"w":370,"h":250},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":117,"w":370,"h":250},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-end-03_27.png":
+{
+	"frame": {"x":348,"y":503,"w":345,"h":268},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":96,"w":345,"h":268},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-end-03_39.png":
+{
+	"frame": {"x":1118,"y":252,"w":370,"h":251},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":117,"w":370,"h":251},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-end-03_47.png":
+{
+	"frame": {"x":1,"y":1,"w":371,"h":248},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":120,"w":371,"h":248},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-end-03_49.png":
+{
+	"frame": {"x":374,"y":1,"w":371,"h":249},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":119,"w":371,"h":249},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-end-03_50.png":
+{
+	"frame": {"x":1490,"y":253,"w":370,"h":250},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":118,"w":370,"h":250},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-end-04_27.png":
+{
+	"frame": {"x":695,"y":504,"w":345,"h":268},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":96,"w":345,"h":268},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-end-04_47.png":
+{
+	"frame": {"x":1,"y":251,"w":371,"h":248},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":120,"w":371,"h":248},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-end-04_48.png":
+{
+	"frame": {"x":747,"y":1,"w":371,"h":249},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":119,"w":371,"h":249},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-end-04_49.png":
+{
+	"frame": {"x":1120,"y":1,"w":371,"h":249},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":119,"w":371,"h":249},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-idle-03_13.png":
+{
+	"frame": {"x":1,"y":771,"w":340,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":61,"w":340,"h":303},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-idle-03_14.png":
+{
+	"frame": {"x":343,"y":773,"w":340,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":61,"w":340,"h":303},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-idle-03_15.png":
+{
+	"frame": {"x":685,"y":774,"w":340,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":61,"w":340,"h":303},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-idle-03_16.png":
+{
+	"frame": {"x":1027,"y":778,"w":340,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":61,"w":340,"h":303},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-idle-03_17.png":
+{
+	"frame": {"x":1369,"y":779,"w":340,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":61,"w":340,"h":303},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-idle-03_18.png":
+{
+	"frame": {"x":1,"y":1076,"w":340,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":61,"w":340,"h":303},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-idle-03_19.png":
+{
+	"frame": {"x":343,"y":1078,"w":340,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":61,"w":340,"h":303},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-idle-03_20.png":
+{
+	"frame": {"x":685,"y":1079,"w":340,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":61,"w":340,"h":303},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-idle-03_21.png":
+{
+	"frame": {"x":1027,"y":1083,"w":340,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":61,"w":340,"h":303},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-idle-03_22.png":
+{
+	"frame": {"x":1369,"y":1084,"w":340,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":61,"w":340,"h":303},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-idle-03_23.png":
+{
+	"frame": {"x":1,"y":1381,"w":340,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":61,"w":340,"h":303},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-idle-03_24.png":
+{
+	"frame": {"x":343,"y":1383,"w":340,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":61,"w":340,"h":303},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-idle-03_29.png":
+{
+	"frame": {"x":685,"y":1384,"w":340,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":61,"w":340,"h":303},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-idle-03_31.png":
+{
+	"frame": {"x":1027,"y":1388,"w":340,"h":302},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":62,"w":340,"h":302},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-idle-03_32.png":
+{
+	"frame": {"x":1369,"y":1389,"w":340,"h":302},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":62,"w":340,"h":302},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-idle-03_33.png":
+{
+	"frame": {"x":1,"y":1686,"w":340,"h":302},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":62,"w":340,"h":302},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-idle-03_34.png":
+{
+	"frame": {"x":343,"y":1688,"w":340,"h":302},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":62,"w":340,"h":302},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-idle-03_35.png":
+{
+	"frame": {"x":685,"y":1689,"w":340,"h":302},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":62,"w":340,"h":302},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-idle-03_36.png":
+{
+	"frame": {"x":1027,"y":1692,"w":340,"h":302},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":62,"w":340,"h":302},
+	"sourceSize": {"w":540,"h":420}
+},
+"gallina-idle-03_37.png":
+{
+	"frame": {"x":1369,"y":1693,"w":340,"h":302},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":62,"w":340,"h":302},
+	"sourceSize": {"w":540,"h":420}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "gallina-17.png",
+	"format": "RGBA8888",
+	"size": {"w":2047,"h":2048},
+	"scale": "1",
+	"related_multi_packs": [ "gallina-1.json", "gallina-2.json", "gallina-3.json", "gallina-4.json", "gallina-5.json", "gallina-6.json", "gallina-7.json", "gallina-8.json", "gallina-9.json", "gallina-10.json", "gallina-11.json", "gallina-12.json", "gallina-13.json", "gallina-14.json", "gallina-15.json", "gallina-16.json", "gallina-18.json", "gallina-19.json", "gallina-20.json", "gallina-21.json", "gallina-22.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:bbf71458ab3bf5a7820b0927542176e8:a1ffe4fbf665bae733c8a4f2c3e3df7d:1f4199d6a7e47e36b948a48a5d2a1b99$"
+}
+}

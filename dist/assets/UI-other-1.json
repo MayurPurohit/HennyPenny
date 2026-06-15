@@ -1,0 +1,29 @@
+{"frames": {
+
+"game-background.png":
+{
+	"frame": {"x":1,"y":1,"w":1280,"h":890},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":890},
+	"sourceSize": {"w":1280,"h":890}
+},
+"sgabello.png":
+{
+	"frame": {"x":1283,"y":1,"w":255,"h":436},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":512,"y":449,"w":255,"h":436},
+	"sourceSize": {"w":1280,"h":890}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "UI-other-1.png",
+	"format": "RGBA8888",
+	"size": {"w":1539,"h":892},
+	"scale": "1",
+	"related_multi_packs": [ "UI-other-2.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:139b7bd8814b25b39ea3e692a520639e:e9f20c7842ebdfe02ea05d4852ca6f5f:3bf2bb3bf1e12cd20df7ed597a192417$"
+}
+}
